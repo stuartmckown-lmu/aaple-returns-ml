@@ -32,6 +32,8 @@ naive baselines.
 The models perform similarly to naive baselines, consistent with
 the low signal-to-noise ratio in daily equity returns. Predictions
 cluster near zero, reflecting conservative RMSE-minimizing behavior.
+![AAPL Next-Day Return Prediction](prediction_plot.png)
+
 
 ## Key Takeaways
 - Proper evaluation matters more than headline accuracy
